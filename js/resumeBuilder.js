@@ -17,7 +17,7 @@ var bio = {
 	"pictureUrl" : "pictures/bio.jpg",
 	"welcomeMessage" : "I will be great",
 	"skills" : skills 
-}
+};
 
 var work = {
 	"jobs" : [
@@ -102,6 +102,14 @@ var education = {
 			"dates" : "2014-2015",
 			"url" : "https://www.udacity.com/course/ep245"
 		},
+	]
+}
+
+var projects = {
+	"school" : [
+		"name" : "CogFut",
+		"course" : "Software engineering project"
+		""
 	]
 }	
 
